@@ -152,3 +152,12 @@ retred {
 .putcenter {
 	text-align: center;
 }
+gotomainpage {
+	color: white;
+	font-size: 30px;
+	background-color: black;
+	padding: 5px;
+}
+.gomain {
+	text-align: center;
+}
