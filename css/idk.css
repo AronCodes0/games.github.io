@@ -1,0 +1,154 @@
+upp {
+	font-family: "Cascadia Code";
+	line-height: 10%;
+	color: white;
+	font-size: 24px;
+}
+body {
+	background-image: url('../img/3pxofgray.png');
+}
+imgheader {
+	text-align: right;
+}
+.right {
+  float: right;
+  padding: 5px;
+}
+yttext {
+	color: #FF0000;
+	font-size: 22px;
+}
+mydctext {
+	color: #7289DA;
+	font-size: 20px;
+	font-family: "Agency FB";
+}
+discordom {
+	color: #00FF00;
+	font-family: "Cascadia Code";
+}
+dctext {
+	color: #7289DA;
+	font-size: 22px;
+}
+dclink {
+	color: #00FF00;
+	font-size: 20px;
+}
+a {
+	text-decoration: none !important;
+}
+tartalmam1 {
+	font-size: 22px;
+	font-family: "Cascadia Code";
+	color: white;
+}
+tartalmam2 {
+	padding-left : 10px;
+	color: #6db37f;
+}
+tartalmam3 {
+	font-family: "Cascadia Code";
+	font-size: 14px;
+	color: #ff7373;
+}
+tartalmam4 {
+	padding-left : 10px;
+	color: #db6060;
+}
+.defborder {
+  border: double;
+  border-color: white;
+  width: 980px;
+}
+.gamesme{
+	color: #fffbab;
+	font-size: 18px;
+	padding-left: 30px;
+	font-family: "Cascadia Code";
+}
+.gamesmebig{
+	color: #d6d287;
+	font-size: 18px;
+	padding-left: 30px;
+	font-family: "Cascadia Code";
+}
+.archiveme {
+	color: #abffd5;
+	font-size: 18px;
+	padding-left: 30px;
+	font-family: "Cascadia Code";
+}
+.archivemebig {
+	color: #cbf0dd;
+	font-size: 18px;
+	padding-left: 30px;
+	font-family: "Cascadia Code";
+}
+.socialsme {
+	color: #b1ffab;
+	font-size: 18px;
+	padding-left: 30px;
+	font-family: "Cascadia Code";
+}
+.socialsmebig {
+	color: #72946f;
+	font-size: 18px;
+	padding-left: 30px;
+	font-family: "Cascadia Code";
+}
+.fnaftable {
+	position: absolute;
+	width: 250px;
+	height: 80px;
+	top: 100px;
+	right: 40px;
+}
+.thdef {
+	text-align: left;
+}
+cwdo {
+	font-size: 25px;
+	font-family: "Arial";
+	background-color: black;
+	color: white;
+	padding: 1px;
+}
+.downloadlink {
+	text-align: center;
+}
+table, th, td {
+	border: solid;
+	border-color: white;
+	border-collapse: collapse;
+	color: #FFFFFF;
+}
+th, td {
+	padding: 2px;
+}
+.asdfg {
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 24px;
+	padding-left: 200px;
+}
+retre {
+	font-size: 20px;
+	color: #FFFFFF;
+}
+retred {
+	font-size: 17px;
+	color: #FFFFFF;
+}
+.cwprope {
+	border: solid;
+	border-color: white;
+	border-collapse: collapse;
+	width: 300px;
+	position: absolute;
+	top: 100px;
+	left: 40px;;
+}
+.putcenter {
+	text-align: center;
+}
